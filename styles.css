@@ -1,0 +1,40 @@
+.title {
+    text-align: center;
+    color: darkblue;
+}
+
+body {
+    background-color: lightblue;
+    font-family: Helvetica;
+}
+
+table, th, tr, td {
+    border: 1px solid black;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    color: darkblue;
+    background-color: yellowgreen;
+}
+
+th {
+    background-color: rgb(173, 188, 203);
+}
+
+.o_example {
+    opacity: 0.5;
+}
+
+.blue {
+    color: blue;
+}
+
+.font {
+    font-family: 'Times New Roman';
+}
